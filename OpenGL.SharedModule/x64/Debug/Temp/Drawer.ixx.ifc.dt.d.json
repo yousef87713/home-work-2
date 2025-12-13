@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\home work2\\opengl.sharedmodule\\src\\abstraction\\drawer.ixx",
+        "ProvidedModule": "Drawer",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
