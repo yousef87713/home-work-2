@@ -11,6 +11,8 @@
 #include "stb_image.h"
 
 using namespace std;
+
+
 using namespace glm;
 float earthSelfRotationSpeed = 0.5f;
 
@@ -40,6 +42,8 @@ bool isLunarEclipse = false;
 float timeScale = 1.0f;
 bool speedUpToSolar = false;
 bool speedUpToLunar = false;
+
+
 
 
 float myClamp(float value, float minVal, float maxVal) {
