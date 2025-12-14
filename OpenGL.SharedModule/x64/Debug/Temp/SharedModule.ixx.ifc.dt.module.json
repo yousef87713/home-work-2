@@ -3,16 +3,16 @@
     "revision": 0,
     "rules": [
         {
-            "primary-output": "C:\\Users\\USER\\Desktop\\home work2\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.obj",
+            "primary-output": "C:\\Users\\USER\\OneDrive\\Desktop\\Home Work 2\\home work2\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.obj",
             "outputs": [
-                "C:\\Users\\USER\\Desktop\\home work2\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ixx.ifc.dt.module.json",
-                "C:\\Users\\USER\\Desktop\\home work2\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ixx.ifc.dt.d.json",
-                "C:\\Users\\USER\\Desktop\\home work2\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ifc"
+                "C:\\Users\\USER\\OneDrive\\Desktop\\Home Work 2\\home work2\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ixx.ifc.dt.module.json",
+                "C:\\Users\\USER\\OneDrive\\Desktop\\Home Work 2\\home work2\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ixx.ifc.dt.d.json",
+                "C:\\Users\\USER\\OneDrive\\Desktop\\Home Work 2\\home work2\\OpenGL.SharedModule\\x64\\Debug\\Temp\\SharedModule.ifc"
             ],
             "provides": [
                 {
                     "logical-name": "SharedModule",
-                    "source-path": "c:\\users\\user\\desktop\\home work2\\opengl.sharedmodule\\src\\abstraction\\sharedmodule.ixx",
+                    "source-path": "c:\\users\\user\\onedrive\\desktop\\home work 2\\home work2\\opengl.sharedmodule\\src\\abstraction\\sharedmodule.ixx",
                     "is-interface": true
                 }
             ],
